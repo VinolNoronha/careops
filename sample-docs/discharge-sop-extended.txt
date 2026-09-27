@@ -1,0 +1,11 @@
+Department: Nursing
+Title: Standard Operating Procedure – Patient Discharge Procedure
+
+1. Purpose & Scope
+This Standard Operating Procedure (SOP) outlines the mandatory steps required for discharging inpatients from nursing care units.
+
+2. Procedure Steps
+* Medical Clearance: Confirm that the attending physician has written and signed the formal discharge order in the Electronic Health Record (EHR).
+* Discharge Education: Provide the patient or primary caregiver with verbal and written instructions covering home medications, follow-up appointments, activity restrictions, and emergency contact details.
+* Administrative Verification: Check the patient's billing status prior to discharge. If insurance authorization is pending, the patient must sign a conditional financial responsibility agreement before final release from the nursing unit.
+* Transportation & Safe Departure: Escort the patient via wheelchair or assisted transport to the primary hospital entrance once all documentation and belongings are verified.

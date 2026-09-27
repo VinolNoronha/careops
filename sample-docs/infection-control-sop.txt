@@ -1,0 +1,11 @@
+Department: Nursing
+Title: Standard Operating Procedure – Basic Infection Control
+
+1. Purpose
+To establish standardized practices for minimizing healthcare-associated infections across all clinical units.
+
+2. Required Practices
+* Hand Hygiene: Staff must perform hand hygiene using alcohol-based hand rub or soap and water immediately before and after every patient interaction, and after contact with potential contaminants.
+* Personal Protective Equipment (PPE): Appropriate PPE (gloves, gowns, surgical masks, or face shields) must be donned prior to entering designated isolation rooms or contacting bodily fluids.
+* Environmental Cleaning: High-touch surfaces within patient rooms must be disinfected daily using hospital-approved chemical wipes according to manufacturer contact times.
+* Waste Disposal: Contaminated materials, sharps, and hazardous linen must be segregated and disposed of in designated color-coded biohazard bins immediately after use.
