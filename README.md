@@ -2,11 +2,8 @@
 
 A multi-tenant hospital knowledge assistant with an agentic RAG engine that answers staff questions using only that hospital's own approved documents, cites its sources on every answer, and keeps a full audit trail. Built with Next.js, FastAPI, Supabase, and Gemini.
 
-Built for the **RxGPT Agentic AI Healthcare Platform** case study.
-
 **Live app:** _not yet deployed — runs locally, see Setup below_
-**API docs:** `http://localhost:8000/docs` (once running locally)
-**Repo:** _add your GitHub link here_
+**API docs:** `http://localhost:8000/docs`
 
 ---
 
@@ -257,8 +254,6 @@ Covers tenant isolation (including spoofed `hospital_id` and archived-document e
 ---
 
 ## Production Thinking
-
-_(Written reasoning, not implemented — required by the case-study brief.)_
 
 **Scaling:** `chunks` is indexed on `(hospital_id, status)` with an IVFFlat vector index, so query cost scales with one hospital's document count, not the total across all hospitals. At high chunk volume (hundreds of thousands+), the next step would be tuning IVFFlat's `lists` parameter or moving to pgvector's HNSW index before reaching for a dedicated vector database.
 
